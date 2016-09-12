@@ -250,7 +250,7 @@ p a {
 
 /* Medium screens */
 
-@media all and (min-width:600px) {
+@media only screen and (min-width:640px) {
   .primary-header {
     display: -webkit-flex; /* Safari */
     display: flex;
